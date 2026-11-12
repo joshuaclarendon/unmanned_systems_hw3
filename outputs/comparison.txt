@@ -1,0 +1,5 @@
+Problem 1(c)-(d): sensor point in world coordinates
+Python result (m): [2.          2.932050808]
+Expected (m): [2.          2.932050808]
+Comparison: atol=1e-6 m, rtol=0
+Matches expected: True
